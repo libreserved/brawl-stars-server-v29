@@ -1,0 +1,5 @@
+python3
+pip
+schedule
+pymongo
+colorama

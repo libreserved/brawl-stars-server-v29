@@ -1,5 +1,15 @@
+RU
 Переходим на сайт монги, регаемся
 дальше следуем этому туториалу > https://imgur.com/a/oXI34dA
 
 как получили url заходим в config.json и там вставляем в MongoConnectionURL а точнее заменяем ссылку в <MongoDB_url tutorial in mongotut.txt>, готово, можете заходить
+
 пример URL:mongodb+srv://<username>:<password>@name.name.mongodb.net/?retryWrites=true&w=majority
+
+ENG
+Let's go to Monga's website and sign up
+then follow this tutorial > https://imgur.com/a/oXI34dA
+
+how to get the url? go to config.json and insert it into MongoConnectionURL, or rather, replace the link in <MongoDB_url tutorial in mongotut.txt>, ready, you can go
+
+example URL:mongodb+srv://<username>:<password>@name.name.mongodb.net/?retryWrites=true&w=majority
